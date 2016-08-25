@@ -1,3 +1,4 @@
 # AdvTopicsFirstDay
 
-Type your favorite Canadian province here: 
+Type your favorite Canadian province here: Alberta
+
